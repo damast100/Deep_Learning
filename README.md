@@ -1,5 +1,8 @@
 # Deep_Learning
 
+### *Please see below for my report on this homework. Also, please be advised that none of the code provided in this repository will run unless used on Google Colaboratory.*
+
+
 ### **Step 4: Write a Report on the Neural Network Model**
 
 For this part of the assignment, you’ll write a report on the performance of the deep learning model you created for AlphabetSoup.
